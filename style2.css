@@ -1,0 +1,64 @@
+body {
+    background: url("https://pelipecky.cz/wp-content/uploads/2020/04/praha-scaled.jpg") fixed center/cover no-repeat; 
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: rgb(187, 162, 162);
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    
+}
+
+h2 {
+    color: rgb(211, 112, 194);
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+footer {
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    }
+    .obrazek {
+        display: flex; 
+      }
+    .obrazek img {
+        float: left; 
+        margin: 0 10px; 
+      }
+      p {
+        margin-bottom: 20px;
+        text-align: center;
+      }
